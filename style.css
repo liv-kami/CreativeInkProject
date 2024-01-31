@@ -1,9 +1,17 @@
-img {
-  max-width: 100%;
-  height: auto;
+*{
+  margin: 0;
+  padding: 0;
 }
 
-body{
-  background-image: url(/redTile.png);
-  background-repeat: repeat;
+img {
+  min-width: 100%;
+  max-width: 100%;
+  height: auto;
+  margin:0;
+  border: 0;
+  padding: 0;
+}
+
+p {
+  color: white;
 }
