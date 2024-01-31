@@ -5,4 +5,5 @@ img {
 
 body{
   background-image: url("redTile.png");
+  background-repeat: repeat;
 }
